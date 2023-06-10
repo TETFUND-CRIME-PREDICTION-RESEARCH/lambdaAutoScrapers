@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "astral-genre-307020",
+  "private_key_id": "b3a1ef811f601d4ec04538f66a8922c928032f81",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCLAUSRvSa+F8UD\ns+SM4j9oEA5Pbu/wUST9EmYqV653jXBxAeTXpglxZwdBb1sceU5+LjYDD51snGyZ\nP/eKr6RAKViIdsh4Jye4q3btFX2kOzwsUH2eFqnMQylZeLPCZNjIafO8TbaU/s7E\nQqpm8SxBuW7DBZQ705gftyNjMs/SsOyiWf6Nzdf1ia+92uro9QeoxOU5pxowHNOV\n3j4UZQ12ZZFCIV0Pa9olZyQjx8HYnTpdmJ0sjWbeuy8DRTP6Id+V46H9o0ngBl49\noEWuo0KQMlL4WuyMlD8TvzIY8ofMznwDOOOGsjiJOmTnSg57+tFAgc0VYY6JX8MA\nkYqNrtc5AgMBAAECggEAC64N16wb3QWsx4CeX+sj1kfhF/ITpa7/y2b4IC8xaPjA\nvbIhyy/3o6h7Ttd/QZ98xbP21F+DxAxJwL/D+kqDY+PFfWPzuMrbdtQrgETZw4q5\npeSWhYnUdyYei5bNjfRA1eg3M3eZM6BMeee7Hz69EAG3iZoGqFdBdUrDZbKvjT2y\nUeIZgumd2TjiMqpm75tLHNPprhh2aDJfOo9zeV1Qmq/pphdoY8ULHiD9k04b6jjq\n7aLplk4lCeZH6G7cVVPI7nLC15kCDqHOsCM6uab48X9dJVYhZpxReCLuMEeOxNNY\n49SeY19jV07xqqOUiJu3avtUT2yxrvkHBvAgzqmMXQKBgQDB1u0J7I5QSfPjpw29\nk0KhE3ltieF8epw0URfASK0SaLC8t94UmNFrIAbYAlZXoH2yFh/vDgKWdrLMApgs\n+0MdCk0g0yCuhoc438QhnykMVHLaL/fM1gxdh8bXa0Ai1CBUTKYGAZYcxF6d68ra\n+wU2h67DCTSK6U9f0DDs9UUP3QKBgQC3lL9TiQ5+7SJ2lT7KPovu2L+PcRlUdYh1\neo3X+u/9MSE2xRddMFnL+mlXbNmqowH+W3IRg1R2+9/PsbbnxRdY+Iw6joZ7Pirz\nxB1wsMJ8ORtoVv04zjfTBW/3IxeEHMjmMO5GSykpanLUtEnWCqtuUPslKWe8UN9y\nYXNH6lUdDQKBgHarV+7tbarlu3Qxv43B69alD3/qG6uTfLHiu4GyfJJ6mUjP4BwH\n+p10u/veYnG/BXTTarV1hEwNWyTeqb9QDCRpPBLOboGqRnqhM3fJ8t1jjfTZzQEQ\nQf24tBkJxfgMmcZCLpoauoXeCnbv9f7eErDxnCI3Ln2knD1yPaGz/pXZAoGBAJga\nqptwB46qs89EwQ2Y3SA8fhs/Phl4eGO98yBsTcOenUJf8ofHs98Jz5YcHgz/mntB\nETXpdmZPMpVHTaCi8EFLTgSGam5aiAQJDct86Oc7+bVtvcj/M8mny6kcbjOMFfiD\nuiiLxcMG67XI2xR5Kqjwd+XGdKjW6QxAKeAADB1RAoGAY8UAiDB04t+A1qFIHWGa\nL6JzFDEs5KIhD7Pi0/uAGDJKqzTE1OJeZYROidTaMk2m9+z8DvFRpuNBTy593I4n\nMbbcTbXcFUmyh+k3fvb7BvteEn5vJkYo+L7QciFtGwcWXmRFCdXhtqPVYq0WnVlG\nicqCpt7n01hQLLjx/fYXoaQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "elo-tetfund@astral-genre-307020.iam.gserviceaccount.com",
+  "client_id": "105654827549065141979",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/elo-tetfund%40astral-genre-307020.iam.gserviceaccount.com"
+}
